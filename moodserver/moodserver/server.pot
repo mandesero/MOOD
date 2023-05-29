@@ -1,0 +1,84 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-29 19:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: server.py:311
+msgid "{} moved one cell {}"
+msgstr ""
+
+#: server.py:355
+msgid ""
+"New user:\n"
+"Name: {}\n"
+"Address: {}\n"
+msgstr ""
+
+#: server.py:368
+msgid "Moved to ({}, {})"
+msgstr ""
+
+#: server.py:390
+msgid "Added monster {} to {} saying {}"
+msgstr ""
+
+#: server.py:394 server.py:402
+msgid ""
+"\n"
+"{} has been replaced."
+msgstr ""
+
+#: server.py:398
+msgid "{} added monster {} to {} saying {}"
+msgstr ""
+
+#: server.py:411
+msgid "No monster here"
+msgstr ""
+
+#: server.py:416
+msgid "No {} here."
+msgstr ""
+
+#: server.py:424
+msgid "{} now has {} hp"
+msgstr ""
+
+#: server.py:428
+msgid "{} died."
+msgstr ""
+
+#: server.py:434
+msgid ""
+"{} attack {}.\n"
+"{} now has {} hp"
+msgstr ""
+
+#: server.py:441
+msgid ""
+"{} attack {}.\n"
+"{} died."
+msgstr ""
+
+#: server.py:464
+msgid "Set up locale: {}"
+msgstr ""
+
+#: server.py:474
+msgid "{} disconnect."
+msgstr ""
+
